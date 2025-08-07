@@ -37,3 +37,9 @@
 ![EditPlus](https://img.shields.io/badge/EditPlus-FF6600?style=flat&logo=notepad++&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=flat&logo=cursor&logoColor=white)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elinasu001&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elinasu001&layout=compact&theme=tokyonight&hide_border=true" width="49.5%" />
+</p>

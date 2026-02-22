@@ -36,6 +36,5 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![EditPlus](https://img.shields.io/badge/EditPlus-FF6600?style=flat&logo=notepad++&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=flat&logo=cursor&logoColor=white)
 
 
